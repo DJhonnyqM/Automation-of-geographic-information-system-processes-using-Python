@@ -1,0 +1,4 @@
+This Python script consists of two code cells designed to automate the interpolation process for N fields of a point feature class using the geostatistical Kriging method and the deterministic Radial Basis Functions method. Additionally, it requires a polygon feature class, which will serve as both a mask and an extent for the interpolation.
+The script includes detailed instructions on which parameters need to be replaced and which ones should be adjusted based on the user's specific requirements. Furthermore, it contains error-handling code snippets to facilitate debugging and ensure a smoother workflow.
+If you have any feedback to improve the code or any questions, feel free to contact me via E.mail: jhonatand8621@gmail.com, LinkedIn: https://www.linkedin.com/in/jhonatan-quinones/ or check out my work on GitHub: DJhonnyqM.
+
